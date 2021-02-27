@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/gloriafurnstore3/static/js/main.be1bba24.chunk.js",
+    "main.js.map": "/gloriafurnstore3/static/js/main.be1bba24.chunk.js.map",
+    "runtime-main.js": "/gloriafurnstore3/static/js/runtime-main.4fbc3a2a.js",
+    "runtime-main.js.map": "/gloriafurnstore3/static/js/runtime-main.4fbc3a2a.js.map",
+    "static/css/2.5a313248.chunk.css": "/gloriafurnstore3/static/css/2.5a313248.chunk.css",
+    "static/js/2.40812498.chunk.js": "/gloriafurnstore3/static/js/2.40812498.chunk.js",
+    "static/js/2.40812498.chunk.js.map": "/gloriafurnstore3/static/js/2.40812498.chunk.js.map",
+    "static/js/3.4213eba8.chunk.js": "/gloriafurnstore3/static/js/3.4213eba8.chunk.js",
+    "static/js/3.4213eba8.chunk.js.map": "/gloriafurnstore3/static/js/3.4213eba8.chunk.js.map",
+    "index.html": "/gloriafurnstore3/index.html",
+    "static/css/2.5a313248.chunk.css.map": "/gloriafurnstore3/static/css/2.5a313248.chunk.css.map",
+    "static/js/2.40812498.chunk.js.LICENSE.txt": "/gloriafurnstore3/static/js/2.40812498.chunk.js.LICENSE.txt",
+    "static/media/bannerMedium2.78ace6c4.jpg": "/gloriafurnstore3/static/media/bannerMedium2.78ace6c4.jpg",
+    "static/media/carpenter1.f4380f1b.jpg": "/gloriafurnstore3/static/media/carpenter1.f4380f1b.jpg",
+    "static/media/carpenter3.843f8462.jpg": "/gloriafurnstore3/static/media/carpenter3.843f8462.jpg",
+    "static/media/furnitureLogo.64e3b070.jpg": "/gloriafurnstore3/static/media/furnitureLogo.64e3b070.jpg",
+    "static/media/nycMap.9616d49f.JPG": "/gloriafurnstore3/static/media/nycMap.9616d49f.JPG",
+    "static/media/smallFurn1.0d164766.jpg": "/gloriafurnstore3/static/media/smallFurn1.0d164766.jpg",
+    "static/media/smallFurn2.7f8bbef0.jpg": "/gloriafurnstore3/static/media/smallFurn2.7f8bbef0.jpg",
+    "static/media/smallFurn3.dfb6fec7.jpg": "/gloriafurnstore3/static/media/smallFurn3.dfb6fec7.jpg",
+    "static/media/smallFurn4.b02162cb.jpg": "/gloriafurnstore3/static/media/smallFurn4.b02162cb.jpg",
+    "static/media/smallFurn5.5144721f.jpg": "/gloriafurnstore3/static/media/smallFurn5.5144721f.jpg",
+    "static/media/smallFurn6.75459ada.jpg": "/gloriafurnstore3/static/media/smallFurn6.75459ada.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fbc3a2a.js",
+    "static/css/2.5a313248.chunk.css",
+    "static/js/2.40812498.chunk.js",
+    "static/js/main.be1bba24.chunk.js"
+  ]
+}
