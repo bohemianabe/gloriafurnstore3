@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/gloriafurnstore3/static/js/main.b7bf8862.chunk.js",
-    "main.js.map": "/gloriafurnstore3/static/js/main.b7bf8862.chunk.js.map",
+    "main.js": "/gloriafurnstore3/static/js/main.c9cef6b5.chunk.js",
+    "main.js.map": "/gloriafurnstore3/static/js/main.c9cef6b5.chunk.js.map",
     "runtime-main.js": "/gloriafurnstore3/static/js/runtime-main.4fbc3a2a.js",
     "runtime-main.js.map": "/gloriafurnstore3/static/js/runtime-main.4fbc3a2a.js.map",
     "static/css/2.5a313248.chunk.css": "/gloriafurnstore3/static/css/2.5a313248.chunk.css",
-    "static/js/2.07650898.chunk.js": "/gloriafurnstore3/static/js/2.07650898.chunk.js",
-    "static/js/2.07650898.chunk.js.map": "/gloriafurnstore3/static/js/2.07650898.chunk.js.map",
+    "static/js/2.88b29200.chunk.js": "/gloriafurnstore3/static/js/2.88b29200.chunk.js",
+    "static/js/2.88b29200.chunk.js.map": "/gloriafurnstore3/static/js/2.88b29200.chunk.js.map",
     "static/js/3.4213eba8.chunk.js": "/gloriafurnstore3/static/js/3.4213eba8.chunk.js",
     "static/js/3.4213eba8.chunk.js.map": "/gloriafurnstore3/static/js/3.4213eba8.chunk.js.map",
     "index.html": "/gloriafurnstore3/index.html",
     "static/css/2.5a313248.chunk.css.map": "/gloriafurnstore3/static/css/2.5a313248.chunk.css.map",
-    "static/js/2.07650898.chunk.js.LICENSE.txt": "/gloriafurnstore3/static/js/2.07650898.chunk.js.LICENSE.txt",
+    "static/js/2.88b29200.chunk.js.LICENSE.txt": "/gloriafurnstore3/static/js/2.88b29200.chunk.js.LICENSE.txt",
     "static/media/bannerMedium2.78ace6c4.jpg": "/gloriafurnstore3/static/media/bannerMedium2.78ace6c4.jpg",
     "static/media/carpenter1.f4380f1b.jpg": "/gloriafurnstore3/static/media/carpenter1.f4380f1b.jpg",
     "static/media/carpenter3.843f8462.jpg": "/gloriafurnstore3/static/media/carpenter3.843f8462.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.4fbc3a2a.js",
     "static/css/2.5a313248.chunk.css",
-    "static/js/2.07650898.chunk.js",
-    "static/js/main.b7bf8862.chunk.js"
+    "static/js/2.88b29200.chunk.js",
+    "static/js/main.c9cef6b5.chunk.js"
   ]
 }
