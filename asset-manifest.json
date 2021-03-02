@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/gloriafurnstore3/static/js/main.c9cef6b5.chunk.js",
-    "main.js.map": "/gloriafurnstore3/static/js/main.c9cef6b5.chunk.js.map",
+    "main.js": "/gloriafurnstore3/static/js/main.c7fd5a7b.chunk.js",
+    "main.js.map": "/gloriafurnstore3/static/js/main.c7fd5a7b.chunk.js.map",
     "runtime-main.js": "/gloriafurnstore3/static/js/runtime-main.4fbc3a2a.js",
     "runtime-main.js.map": "/gloriafurnstore3/static/js/runtime-main.4fbc3a2a.js.map",
     "static/css/2.5a313248.chunk.css": "/gloriafurnstore3/static/css/2.5a313248.chunk.css",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.4fbc3a2a.js",
     "static/css/2.5a313248.chunk.css",
     "static/js/2.88b29200.chunk.js",
-    "static/js/main.c9cef6b5.chunk.js"
+    "static/js/main.c7fd5a7b.chunk.js"
   ]
 }
